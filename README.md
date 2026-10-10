@@ -65,3 +65,8 @@ Specific findings and recommendations are presented in the accompanying Excel da
 **Project Type:** Data Analytics  
 **Tool:** Microsoft Excel  
 **Year Analyzed:** 2022
+
+## Dashboard Preview
+
+
+![Vrinda Store Annual Sales Dashboard](<Screenshot (970).png>)
